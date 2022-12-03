@@ -1,0 +1,1 @@
+Gitwatch functionality test
